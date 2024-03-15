@@ -1,0 +1,23 @@
+.contact-content{
+    /* height: 390px; */
+    display:block;
+    margin-top:25px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border: 2px solid aqua;
+    background-color: aliceblue;
+}
+.contact-form{
+    height: 80vh;
+
+}
+.form-btn{
+    padding: 0 10px;
+    padding-top: 3px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 13px;
+    font-family: var(--font1);
+    font-size: 15px;
+    cursor: pointer;
+}

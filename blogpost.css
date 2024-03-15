@@ -1,0 +1,29 @@
+.post-img{
+    height: 405px;
+    overflow: hidden;
+    /* margin-top: 14px; */
+    /* border: 2px solid red; */
+}
+.post-img img{
+    width: 100%;
+    
+}
+.blog-post-content{
+    /* text-align: center; */
+    background-color:aliceblue;
+}
+.blog-post-content h1{
+    text-align: center;
+}
+.row{
+    display: flex;
+    flex-direction:row;
+}
+.more-post{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.home-article-content{
+    text-align: center;
+}
